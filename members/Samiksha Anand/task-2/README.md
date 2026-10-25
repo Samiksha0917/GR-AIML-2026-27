@@ -12,3 +12,7 @@ Evaluated model performance using MAE and MSE.
 Added user input for interactive price prediction.
 Tech Stack: Python, NumPy
 
+## Files
+solution.ipynb — Jupyter Notebook containing the code and results.
+Numpy house prediction.pdf — Report explaining the solution and findings.
+
